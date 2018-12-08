@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About LakrassCoin</source>
-        <translation>Sobre LakrassCoin</translation>
+        <source>About LKRcoin</source>
+        <translation>Sobre LKRcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;LakrassCoin&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;LakrassCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;LKRcoin&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;LKRcoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The LakrassCoin developers</source>
+Copyright © 2014 The LKRcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The LakrassCoin developers</translation>
+Copyright © 2014 The LKRcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your LakrassCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de LakrassCoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your LKRcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de LKRcoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a LakrassCoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça LakrassCoin</translation>
+        <source>Sign a message to prove you own a LKRcoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça LKRcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified LakrassCoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça LakrassCoin especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified LKRcoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça LKRcoin especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>LakrassCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>LakrassCoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>LKRcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>LKRcoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about LakrassCoin</source>
-        <translation>Mostra informació sobre LakrassCoin</translation>
+        <source>Show information about LKRcoin</source>
+        <translation>Mostra informació sobre LKRcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a LakrassCoin address</source>
-        <translation>Enviar monedes a una adreça LakrassCoin</translation>
+        <source>Send coins to a LKRcoin address</source>
+        <translation>Enviar monedes a una adreça LKRcoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for LakrassCoin</source>
-        <translation>Modificar les opcions de configuració per a LakrassCoin</translation>
+        <source>Modify configuration options for LKRcoin</source>
+        <translation>Modificar les opcions de configuració per a LKRcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>LakrassCoin</source>
-        <translation>LakrassCoin</translation>
+        <source>LKRcoin</source>
+        <translation>LKRcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About LakrassCoin</source>
-        <translation>&amp;Sobre LakrassCoin</translation>
+        <source>&amp;About LKRcoin</source>
+        <translation>&amp;Sobre LKRcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>LakrassCoin client</source>
-        <translation>Client LakrassCoin</translation>
+        <source>LKRcoin client</source>
+        <translation>Client LKRcoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to LakrassCoin network</source>
-        <translation><numerusform>%n conexió activa a la xarxa LakrassCoin</numerusform><numerusform>%n conexions actives a la xarxa LakrassCoin</numerusform></translation>
+        <source>%n active connection(s) to LKRcoin network</source>
+        <translation><numerusform>%n conexió activa a la xarxa LKRcoin</numerusform><numerusform>%n conexions actives a la xarxa LKRcoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -650,8 +650,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid LakrassCoin address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça LakrassCoin no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid LKRcoin address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça LKRcoin no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -710,8 +710,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. LakrassCoin can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. LakrassCoin ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. LKRcoin can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. LKRcoin ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1044,8 +1044,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid LakrassCoin address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça LakrassCoin vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid LKRcoin address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça LKRcoin vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1063,8 +1063,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>LakrassCoin-Qt</source>
-        <translation>LakrassCoin-Qt</translation>
+        <source>LKRcoin-Qt</source>
+        <translation>LKRcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1136,13 +1136,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start LakrassCoin after logging in to the system.</source>
-        <translation>Inicia automàticament LakrassCoin després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start LKRcoin after logging in to the system.</source>
+        <translation>Inicia automàticament LKRcoin després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start LakrassCoin on system login</source>
-        <translation>&amp;Iniciar LakrassCoin amb l&apos;inici de sessió</translation>
+        <source>&amp;Start LKRcoin on system login</source>
+        <translation>&amp;Iniciar LKRcoin amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1161,8 +1161,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the LakrassCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client LakrassCoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the LKRcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client LKRcoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the LakrassCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa LakrassCoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the LKRcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa LKRcoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1246,8 +1246,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting LakrassCoin.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar LakrassCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting LKRcoin.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar LKRcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1261,8 +1261,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show LakrassCoin addresses in the transaction list or not.</source>
-        <translation>Per mostrar LakrassCoin adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show LKRcoin addresses in the transaction list or not.</source>
+        <translation>Per mostrar LKRcoin adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1308,8 +1308,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting LakrassCoin.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar LakrassCoin.</translation>
+        <source>This setting will take effect after restarting LKRcoin.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar LKRcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1327,8 +1327,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LakrassCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa LakrassCoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LKRcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa LKRcoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1543,8 +1543,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the LakrassCoin-Qt help message to get a list with possible LakrassCoin command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de LakrassCoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres LakrassCoin.</translation>
+        <source>Show the LKRcoin-Qt help message to get a list with possible LKRcoin command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de LKRcoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres LKRcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,13 +1563,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>LakrassCoin - Debug window</source>
-        <translation>LakrassCoin - Finestra Depuració</translation>
+        <source>LKRcoin - Debug window</source>
+        <translation>LKRcoin - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>LakrassCoin Core</source>
-        <translation>Nucli LakrassCoin</translation>
+        <source>LKRcoin Core</source>
+        <translation>Nucli LKRcoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1578,8 +1578,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the LakrassCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració LakrassCoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the LKRcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració LKRcoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the LakrassCoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de LakrassCoin.</translation>
+        <source>Welcome to the LKRcoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de LKRcoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1747,8 +1747,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a LakrassCoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça LakrassCoin (p.ex. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a LKRcoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça LKRcoin (p.ex. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1847,8 +1847,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid LakrassCoin address</source>
-        <translation>ADVERTÈNCIA: Direcció LakrassCoin invàlida</translation>
+        <source>WARNING: Invalid LKRcoin address</source>
+        <translation>ADVERTÈNCIA: Direcció LKRcoin invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1921,8 +1921,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a LakrassCoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça LakrassCoin (p.ex. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a LKRcoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça LKRcoin (p.ex. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1982,8 +1982,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this LakrassCoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça LakrassCoin</translation>
+        <source>Sign the message to prove you own this LKRcoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça LKRcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2014,8 +2014,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified LakrassCoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça LakrassCoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified LKRcoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça LKRcoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2025,8 +2025,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a LakrassCoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça LakrassCoin (p.ex. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a LKRcoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça LKRcoin (p.ex. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter LakrassCoin signature</source>
-        <translation>Introduïu la signatura LakrassCoin</translation>
+        <source>Enter LKRcoin signature</source>
+        <translation>Introduïu la signatura LKRcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2606,8 +2606,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>LakrassCoin version</source>
-        <translation>versió LakrassCoin</translation>
+        <source>LKRcoin version</source>
+        <translation>versió LKRcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or lakrasscoind</source>
-        <translation>Enviar comandes a -server o lakrasscoind</translation>
+        <source>Send command to -server or LKRcoind</source>
+        <translation>Enviar comandes a -server o LKRcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2636,13 +2636,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: lakrasscoin.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: lakrasscoin.conf)</translation>
+        <source>Specify configuration file (default: LKRcoin.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: LKRcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: lakrasscoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: lakrasscoind.pid)</translation>
+        <source>Specify pid file (default: LKRcoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: LKRcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2791,8 +2791,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LakrassCoin will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni LakrassCoin no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LKRcoin will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni LKRcoin no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2981,24 +2981,24 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=lakrasscoinrpc
+rpcuser=LKRcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;LakrassCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;LKRcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=lakrasscoinrpc
+rpcuser=LKRcoinrpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;LakrassCoin Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;LKRcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3124,13 +3124,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  LakrassCoin is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. LakrassCoin probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  LKRcoin is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. LKRcoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>LakrassCoin</source>
-        <translation>LakrassCoin</translation>
+        <source>LKRcoin</source>
+        <translation>LKRcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3164,13 +3164,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of LakrassCoin</source>
-        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de LakrassCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of LKRcoin</source>
+        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de LKRcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart LakrassCoin to complete</source>
-        <translation>El moneder necessita ser reescrita: reiniciar LakrassCoin per completar</translation>
+        <source>Wallet needed to be rewritten: restart LKRcoin to complete</source>
+        <translation>El moneder necessita ser reescrita: reiniciar LKRcoin per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3239,8 +3239,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. LakrassCoin is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. LakrassCoin probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. LKRcoin is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. LKRcoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>

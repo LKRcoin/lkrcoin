@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About LakrassCoin</source>
-        <translation>Vad du behöver veta om LakrassCoin</translation>
+        <source>About LKRcoin</source>
+        <translation>Vad du behöver veta om LKRcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;LakrassCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;LakrassCoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;LKRcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;LKRcoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The LakrassCoin developers</source>
+Copyright © 2014 The LKRcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The LakrassCoin developers</translation>
+Copyright © 2014 The LKRcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your LakrassCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina LakrassCoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your LKRcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina LKRcoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a LakrassCoin address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger LakrassCoin adressen</translation>
+        <source>Sign a message to prove you own a LKRcoin address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger LKRcoin adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified LakrassCoin address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik LakrassCoin adress</translation>
+        <source>Verify a message to ensure it was signed with a specified LKRcoin address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik LKRcoin adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,8 +264,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-58"/>
-        <source>LakrassCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>LakrassCoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>LKRcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>LKRcoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -378,8 +378,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about LakrassCoin</source>
-        <translation>Visa information om LakrassCoin</translation>
+        <source>Show information about LKRcoin</source>
+        <translation>Visa information om LKRcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,13 +428,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a LakrassCoin address</source>
-        <translation>Skicka coins till en LakrassCoin adress</translation>
+        <source>Send coins to a LKRcoin address</source>
+        <translation>Skicka coins till en LKRcoin adress</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for LakrassCoin</source>
-        <translation>Modifiera konfigurations-alternativ för LakrassCoin</translation>
+        <source>Modify configuration options for LKRcoin</source>
+        <translation>Modifiera konfigurations-alternativ för LKRcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,8 +473,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-200"/>
-        <source>LakrassCoin</source>
-        <translation>LakrassCoin</translation>
+        <source>LKRcoin</source>
+        <translation>LKRcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,8 +483,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About LakrassCoin</source>
-        <translation>&amp;Om LakrassCoin</translation>
+        <source>&amp;About LKRcoin</source>
+        <translation>&amp;Om LKRcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,13 +540,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>LakrassCoin client</source>
-        <translation>LakrassCoin klient</translation>
+        <source>LKRcoin client</source>
+        <translation>LKRcoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to LakrassCoin network</source>
-        <translation><numerusform>%n aktiv anslutning till LakrassCoin nätverket</numerusform><numerusform>%n aktiva anslutning till LakrassCoin nätverket</numerusform></translation>
+        <source>%n active connection(s) to LKRcoin network</source>
+        <translation><numerusform>%n aktiv anslutning till LKRcoin nätverket</numerusform><numerusform>%n aktiva anslutning till LKRcoin nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -660,8 +660,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid LakrassCoin address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig LakrassCoin adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid LKRcoin address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig LKRcoin adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,8 +720,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. LakrassCoin can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. LakrassCoin kan inte fortsätta och stänger programmet.</translation>
+        <source>A fatal error occurred. LKRcoin can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. LKRcoin kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
 <context>
@@ -1015,7 +1015,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna LakrassCoin-adress</translation>
+        <translation>Namnet som kopplats till denna LKRcoin-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1054,8 +1054,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid LakrassCoin address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig LakrassCoin adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid LKRcoin address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig LKRcoin adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1073,8 +1073,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>LakrassCoin-Qt</source>
-        <translation>LakrassCoin-Qt</translation>
+        <source>LKRcoin-Qt</source>
+        <translation>LKRcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,13 +1146,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start LakrassCoin after logging in to the system.</source>
-        <translation>Starta LakrassCoin automatiskt vid inloggning.</translation>
+        <source>Automatically start LKRcoin after logging in to the system.</source>
+        <translation>Starta LKRcoin automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start LakrassCoin on system login</source>
-        <translation>&amp;Starta LakrassCoin vid inloggning</translation>
+        <source>&amp;Start LKRcoin on system login</source>
+        <translation>&amp;Starta LKRcoin vid inloggning</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1171,8 +1171,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the LakrassCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt LakrassCoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the LKRcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt LKRcoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the LakrassCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till LakrassCoin nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the LKRcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till LKRcoin nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting LakrassCoin.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av LakrassCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting LKRcoin.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av LKRcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show LakrassCoin addresses in the transaction list or not.</source>
-        <translation>Om LakrassCoin adresser skall visas i transaktionslistan eller inte.</translation>
+        <source>Whether to show LKRcoin addresses in the transaction list or not.</source>
+        <translation>Om LKRcoin adresser skall visas i transaktionslistan eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting LakrassCoin.</source>
-        <translation>Inställningen börjar gälla efter omstart av LakrassCoin.</translation>
+        <source>This setting will take effect after restarting LKRcoin.</source>
+        <translation>Inställningen börjar gälla efter omstart av LKRcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LakrassCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med LakrassCoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LKRcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med LKRcoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the LakrassCoin-Qt help message to get a list with possible LakrassCoin command-line options.</source>
-        <translation>Visa LakrassCoin-Qt hjälp meddelandet för att få en lista över möjliga LakrassCoin kommandoradsalternativ.</translation>
+        <source>Show the LKRcoin-Qt help message to get a list with possible LKRcoin command-line options.</source>
+        <translation>Visa LKRcoin-Qt hjälp meddelandet för att få en lista över möjliga LKRcoin kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>LakrassCoin - Debug window</source>
-        <translation>LakrassCoin - Felsökningsfönster</translation>
+        <source>LKRcoin - Debug window</source>
+        <translation>LKRcoin - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>LakrassCoin Core</source>
-        <translation>LakrassCoin Core</translation>
+        <source>LKRcoin Core</source>
+        <translation>LKRcoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the LakrassCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna LakrassCoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the LKRcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna LKRcoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the LakrassCoin RPC console.</source>
-        <translation>Välkommen till LakrassCoin RPC konsoll.</translation>
+        <source>Welcome to the LKRcoin RPC console.</source>
+        <translation>Välkommen till LKRcoin RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1757,8 +1757,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a LakrassCoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en LakrassCoin adress (t.ex. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a LKRcoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en LKRcoin adress (t.ex. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,8 +1857,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid LakrassCoin address</source>
-        <translation>VARNING: Ogiltig LakrassCoin adress</translation>
+        <source>WARNING: Invalid LKRcoin address</source>
+        <translation>VARNING: Ogiltig LKRcoin adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1931,8 +1931,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a LakrassCoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en LakrassCoin adress (t.ex. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a LKRcoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en LKRcoin adress (t.ex. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1992,8 +1992,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this LakrassCoin address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna LakrassCoin adressen</translation>
+        <source>Sign the message to prove you own this LKRcoin address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna LKRcoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2024,8 +2024,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified LakrassCoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna LakrassCoin adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified LKRcoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna LKRcoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a LakrassCoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en LakrassCoin adress (t.ex. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a LKRcoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en LKRcoin adress (t.ex. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter LakrassCoin signature</source>
-        <translation>Fyll i LakrassCoin signatur</translation>
+        <source>Enter LKRcoin signature</source>
+        <translation>Fyll i LKRcoin signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2616,8 +2616,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>LakrassCoin version</source>
-        <translation>LakrassCoin version</translation>
+        <source>LKRcoin version</source>
+        <translation>LKRcoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2626,8 +2626,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or lakrasscoind</source>
-        <translation>Skicka kommando till -server eller lakrasscoind</translation>
+        <source>Send command to -server or LKRcoind</source>
+        <translation>Skicka kommando till -server eller LKRcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: lakrasscoin.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: lakrasscoin.conf)</translation>
+        <source>Specify configuration file (default: LKRcoin.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: LKRcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: lakrasscoind.pid)</source>
-        <translation>Ange pid filen (standard lakrasscoind.pid)</translation>
+        <source>Specify pid file (default: LKRcoind.pid)</source>
+        <translation>Ange pid filen (standard LKRcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2801,8 +2801,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LakrassCoin will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. LakrassCoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LKRcoin will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum är rätt. LKRcoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2991,24 +2991,24 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=lakrasscoinrpc
+rpcuser=LKRcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;LakrassCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;LKRcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
 Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=lakrasscoinrpc
+rpcuser=LKRcoinrpc
 rpcpassword=%s
 (du behöver inte komma ihåg detta lösenord)
 Användarnamnet och lösenordet FÅR INTE vara samma.
 Om filen inte finns, skapa den med endast ägarrättigheter.
 Det är också rekommenderat att sätta alertnotify så du blir notifierad om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;LakrassCoin Varning&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;LKRcoin Varning&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3133,13 +3133,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;LakrassCoin Varning&quot; adm
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  LakrassCoin is probably already running.</source>
-        <translation>Kan inte låsa datan i mappen %s. LakrassCoin är kanske redan startad.</translation>
+        <source>Cannot obtain a lock on data directory %s.  LKRcoin is probably already running.</source>
+        <translation>Kan inte låsa datan i mappen %s. LKRcoin är kanske redan startad.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>LakrassCoin</source>
-        <translation>LakrassCoin</translation>
+        <source>LKRcoin</source>
+        <translation>LKRcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3173,13 +3173,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;LakrassCoin Varning&quot; adm
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of LakrassCoin</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av LakrassCoin krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of LKRcoin</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av LKRcoin krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart LakrassCoin to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om LakrassCoin för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart LKRcoin to complete</source>
+        <translation>Plånboken måste skrivas om: Starta om LKRcoin för att slutföra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3248,8 +3248,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;LakrassCoin Varning&quot; adm
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. LakrassCoin is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. LakrassCoin är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. LKRcoin is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. LKRcoin är sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-97"/>

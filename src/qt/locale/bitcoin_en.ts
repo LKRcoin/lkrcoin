@@ -5,19 +5,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About LakrassCoin</source>
-        <translation>About LakrassCoin</translation>
+        <source>About LKRcoin</source>
+        <translation>About LKRcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;LakrassCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;LakrassCoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;LKRcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;LKRcoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The LakrassCoin developers</source>
+Copyright © 2014 The LKRcoin developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -65,8 +65,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your LakrassCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your LakrassCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your LKRcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your LKRcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a LakrassCoin address</source>
-        <translation>Sign a message to prove you own a LakrassCoin address</translation>
+        <source>Sign a message to prove you own a LKRcoin address</source>
+        <translation>Sign a message to prove you own a LKRcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified LakrassCoin address</source>
-        <translation>Verify a message to ensure it was signed with a specified LakrassCoin address</translation>
+        <source>Verify a message to ensure it was signed with a specified LKRcoin address</source>
+        <translation>Verify a message to ensure it was signed with a specified LKRcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>LakrassCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>LakrassCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
+        <source>LKRcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>LKRcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about LakrassCoin</source>
-        <translation>Show information about LakrassCoin</translation>
+        <source>Show information about LKRcoin</source>
+        <translation>Show information about LKRcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a LakrassCoin address</source>
-        <translation>Send coins to a LakrassCoin address</translation>
+        <source>Send coins to a LKRcoin address</source>
+        <translation>Send coins to a LKRcoin address</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for LakrassCoin</source>
-        <translation>Modify configuration options for LakrassCoin</translation>
+        <source>Modify configuration options for LKRcoin</source>
+        <translation>Modify configuration options for LKRcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>LakrassCoin</source>
-        <translation>LakrassCoin</translation>
+        <source>LKRcoin</source>
+        <translation>LKRcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About LakrassCoin</source>
-        <translation>&amp;About LakrassCoin</translation>
+        <source>&amp;About LKRcoin</source>
+        <translation>&amp;About LKRcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,15 +542,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>LakrassCoin client</source>
-        <translation>LakrassCoin client</translation>
+        <source>LKRcoin client</source>
+        <translation>LKRcoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to LakrassCoin network</source>
+        <source>%n active connection(s) to LKRcoin network</source>
         <translation>
-            <numerusform>%n active connection to LakrassCoin network</numerusform>
-            <numerusform>%n active connections to LakrassCoin network</numerusform>
+            <numerusform>%n active connection to LKRcoin network</numerusform>
+            <numerusform>%n active connections to LKRcoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -677,8 +677,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid LakrassCoin address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid LakrassCoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid LKRcoin address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid LKRcoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -749,8 +749,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. LakrassCoin can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. LakrassCoin can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. LKRcoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. LKRcoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1069,8 +1069,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid LakrassCoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid LakrassCoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid LKRcoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid LKRcoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1088,8 +1088,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>LakrassCoin-Qt</source>
-        <translation>LakrassCoin-Qt</translation>
+        <source>LKRcoin-Qt</source>
+        <translation>LKRcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1161,13 +1161,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start LakrassCoin after logging in to the system.</source>
-        <translation>Automatically start LakrassCoin after logging in to the system.</translation>
+        <source>Automatically start LKRcoin after logging in to the system.</source>
+        <translation>Automatically start LKRcoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start LakrassCoin on system login</source>
-        <translation>&amp;Start LakrassCoin on system login</translation>
+        <source>&amp;Start LKRcoin on system login</source>
+        <translation>&amp;Start LKRcoin on system login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1186,8 +1186,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the LakrassCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the LakrassCoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the LKRcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the LKRcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1196,8 +1196,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the LakrassCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the LakrassCoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the LKRcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the LKRcoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1271,8 +1271,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting LakrassCoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting LakrassCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting LKRcoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting LKRcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1286,8 +1286,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show LakrassCoin addresses in the transaction list or not.</source>
-        <translation>Whether to show LakrassCoin addresses in the transaction list or not.</translation>
+        <source>Whether to show LKRcoin addresses in the transaction list or not.</source>
+        <translation>Whether to show LKRcoin addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1333,8 +1333,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting LakrassCoin.</source>
-        <translation>This setting will take effect after restarting LakrassCoin.</translation>
+        <source>This setting will take effect after restarting LKRcoin.</source>
+        <translation>This setting will take effect after restarting LKRcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1352,8 +1352,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LakrassCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the LakrassCoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LKRcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the LKRcoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1568,8 +1568,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the LakrassCoin-Qt help message to get a list with possible LakrassCoin command-line options.</source>
-        <translation>Show the LakrassCoin-Qt help message to get a list with possible LakrassCoin command-line options.</translation>
+        <source>Show the LKRcoin-Qt help message to get a list with possible LKRcoin command-line options.</source>
+        <translation>Show the LKRcoin-Qt help message to get a list with possible LKRcoin command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1588,13 +1588,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>LakrassCoin - Debug window</source>
-        <translation>LakrassCoin - Debug window</translation>
+        <source>LKRcoin - Debug window</source>
+        <translation>LKRcoin - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>LakrassCoin Core</source>
-        <translation>LakrassCoin Core</translation>
+        <source>LKRcoin Core</source>
+        <translation>LKRcoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1603,8 +1603,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the LakrassCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the LakrassCoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the LKRcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the LKRcoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1613,8 +1613,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the LakrassCoin RPC console.</source>
-        <translation>Welcome to the LakrassCoin RPC console.</translation>
+        <source>Welcome to the LKRcoin RPC console.</source>
+        <translation>Welcome to the LKRcoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1772,8 +1772,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a LakrassCoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a LakrassCoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a LKRcoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a LKRcoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1872,7 +1872,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid LakrassCoin address</source>
+        <source>WARNING: Invalid LKRcoin address</source>
         <translation></translation>
     </message>
     <message>
@@ -1946,8 +1946,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a LakrassCoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a LakrassCoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a LKRcoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a LKRcoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2007,8 +2007,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this LakrassCoin address</source>
-        <translation>Sign the message to prove you own this LakrassCoin address</translation>
+        <source>Sign the message to prove you own this LKRcoin address</source>
+        <translation>Sign the message to prove you own this LKRcoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2039,8 +2039,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified LakrassCoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified LakrassCoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified LKRcoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified LKRcoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2050,8 +2050,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a LakrassCoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a LakrassCoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a LKRcoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a LKRcoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2060,8 +2060,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter LakrassCoin signature</source>
-        <translation>Enter LakrassCoin signature</translation>
+        <source>Enter LKRcoin signature</source>
+        <translation>Enter LKRcoin signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2643,8 +2643,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>LakrassCoin version</source>
-        <translation>LakrassCoin version</translation>
+        <source>LKRcoin version</source>
+        <translation>LKRcoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2653,8 +2653,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or lakrasscoind</source>
-        <translation>Send command to -server or lakrasscoind</translation>
+        <source>Send command to -server or LKRcoind</source>
+        <translation>Send command to -server or LKRcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2673,13 +2673,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: lakrasscoin.conf)</source>
-        <translation>Specify configuration file (default: lakrasscoin.conf)</translation>
+        <source>Specify configuration file (default: LKRcoin.conf)</source>
+        <translation>Specify configuration file (default: LKRcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: lakrasscoind.pid)</source>
-        <translation>Specify pid file (default: lakrasscoind.pid)</translation>
+        <source>Specify pid file (default: LKRcoind.pid)</source>
+        <translation>Specify pid file (default: LKRcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2828,8 +2828,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LakrassCoin will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LakrassCoin will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LKRcoin will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LKRcoin will not work properly.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3017,13 +3017,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=lakrasscoinrpc
+rpcuser=LKRcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;LakrassCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;LKRcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3149,13 +3149,13 @@ for example: alertnotify=echo %%s | mail -s &quot;LakrassCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  LakrassCoin is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s.  LakrassCoin is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s.  LKRcoin is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s.  LKRcoin is probably already running.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>LakrassCoin</source>
-        <translation>LakrassCoin</translation>
+        <source>LKRcoin</source>
+        <translation>LKRcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3189,13 +3189,13 @@ for example: alertnotify=echo %%s | mail -s &quot;LakrassCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of LakrassCoin</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of LakrassCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of LKRcoin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of LKRcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart LakrassCoin to complete</source>
-        <translation>Wallet needed to be rewritten: restart LakrassCoin to complete</translation>
+        <source>Wallet needed to be rewritten: restart LKRcoin to complete</source>
+        <translation>Wallet needed to be rewritten: restart LKRcoin to complete</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3264,8 +3264,8 @@ for example: alertnotify=echo %%s | mail -s &quot;LakrassCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. LakrassCoin is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. LakrassCoin is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. LKRcoin is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. LKRcoin is probably already running.</translation>
     </message>
     <message>
         <location line="-97"/>
