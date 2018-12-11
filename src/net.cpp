@@ -1233,8 +1233,7 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-    {"walletbuilders.com", "node.walletbuilders.com"},
-    {"walletbuilders.com", "node2.walletbuilders.com"},
+    {"seed.lkrcoin.io", "seed.lkrcoin.io"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
