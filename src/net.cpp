@@ -372,7 +372,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
 
             pszGet = "GET / HTTP/1.1\r\n"
                      "Host: checkip.dyndns.org\r\n"
-                     "User-Agent: LakrassCoin\r\n"
+                     "User-Agent: LKRcoin\r\n"
                      "Connection: close\r\n"
                      "\r\n";
 
@@ -391,7 +391,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
 
             pszGet = "GET /simple/ HTTP/1.1\r\n"
                      "Host: www.showmyip.com\r\n"
-                     "User-Agent: LakrassCoin\r\n"
+                     "User-Agent: LKRcoin\r\n"
                      "Connection: close\r\n"
                      "\r\n";
 
@@ -408,7 +408,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
 void ThreadGetMyExternalIP(void* parg)
 {
     // Make this thread recognisable as the external IP detection thread
-    RenameThread("lakrasscoin-ext-ip");
+    RenameThread("LKRcoin-ext-ip");
 
     CNetAddr addrLocalHost;
     if (GetMyExternalIP(addrLocalHost))
@@ -749,7 +749,7 @@ void SocketSendData(CNode *pnode)
 void ThreadSocketHandler(void* parg)
 {
     // Make this thread recognisable as the networking thread
-    RenameThread("lakrasscoin-net");
+    RenameThread("LKRcoin-net");
 
     try
     {
@@ -1078,7 +1078,7 @@ void ThreadSocketHandler2(void* parg)
 void ThreadMapPort(void* parg)
 {
     // Make this thread recognisable as the UPnP thread
-    RenameThread("lakrasscoin-UPnP");
+    RenameThread("LKRcoin-UPnP");
 
     try
     {
@@ -1109,10 +1109,14 @@ void ThreadMapPort2(void* parg)
 #ifndef UPNPDISCOVER_SUCCESS
     /* miniupnpc 1.5 */
     devlist = upnpDiscover(2000, multicastif, minissdpdpath, 0);
-#else
+#elif MINIUPNPC_API_VERSION < 14
     /* miniupnpc 1.6 */
     int error = 0;
     devlist = upnpDiscover(2000, multicastif, minissdpdpath, 0, 0, &error);
+#else
+    /* miniupnpc 1.9.20150730 */
+    int error = 0;
+    devlist = upnpDiscover(2000, multicastif, minissdpdpath, 0, 0, 2, &error);
 #endif
 
     struct UPNPUrls urls;
@@ -1139,7 +1143,7 @@ void ThreadMapPort2(void* parg)
             }
         }
 
-        string strDesc = "LakrassCoin " + FormatFullVersion();
+        string strDesc = "LKRcoin " + FormatFullVersion();
 #ifndef UPNPDISCOVER_SUCCESS
         /* miniupnpc 1.5 */
         r = UPNP_AddPortMapping(urls.controlURL, data.first.servicetype,
@@ -1229,14 +1233,13 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-    {"walletbuilders.com", "node.walletbuilders.com"},
-    {"walletbuilders.com", "node2.walletbuilders.com"},
+    {"seed.lkrcoin.io", "seed.lkrcoin.io"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
 {
     // Make this thread recognisable as the DNS seeding thread
-    RenameThread("lakrasscoin-dnsseed");
+    RenameThread("LKRcoin-dnsseed");
 
     try
     {
@@ -1310,7 +1313,7 @@ void DumpAddresses()
     CAddrDB adb;
     adb.Write(addrman);
 
-    printf("Flushed %d addresses to peers.dat  %"PRId64"ms\n",
+    printf("Flushed %d addresses to peers.dat  %" PRId64"ms\n",
            addrman.size(), GetTimeMillis() - nStart);
 }
 
@@ -1330,7 +1333,7 @@ void ThreadDumpAddress2(void* parg)
 void ThreadDumpAddress(void* parg)
 {
     // Make this thread recognisable as the address dumping thread
-    RenameThread("lakrasscoin-adrdump");
+    RenameThread("LKRcoin-adrdump");
 
     try
     {
@@ -1345,7 +1348,7 @@ void ThreadDumpAddress(void* parg)
 void ThreadOpenConnections(void* parg)
 {
     // Make this thread recognisable as the connection opening thread
-    RenameThread("lakrasscoin-opencon");
+    RenameThread("LKRcoin-opencon");
 
     try
     {
@@ -1526,7 +1529,7 @@ void ThreadOpenConnections2(void* parg)
 void ThreadOpenAddedConnections(void* parg)
 {
     // Make this thread recognisable as the connection opening thread
-    RenameThread("lakrasscoin-opencon");
+    RenameThread("LKRcoin-opencon");
 
     try
     {
@@ -1657,7 +1660,7 @@ bool OpenNetworkConnection(const CAddress& addrConnect, CSemaphoreGrant *grantOu
 void ThreadMessageHandler(void* parg)
 {
     // Make this thread recognisable as the message handling thread
-    RenameThread("lakrasscoin-msghand");
+    RenameThread("LKRcoin-msghand");
 
     try
     {
@@ -1823,7 +1826,7 @@ bool BindListenPort(const CService &addrBind, string& strError)
     {
         int nErr = WSAGetLastError();
         if (nErr == WSAEADDRINUSE)
-            strError = strprintf(_("Unable to bind to %s on this computer. LakrassCoin is probably already running."), addrBind.ToString().c_str());
+            strError = strprintf(_("Unable to bind to %s on this computer. LKRcoin is probably already running."), addrBind.ToString().c_str());
         else
             strError = strprintf(_("Unable to bind to %s on this computer (bind returned error %d, %s)"), addrBind.ToString().c_str(), nErr, strerror(nErr));
         printf("%s\n", strError.c_str());
@@ -1904,7 +1907,7 @@ void static Discover()
 void StartNode(void* parg)
 {
     // Make this thread recognisable as the startup thread
-    RenameThread("lakrasscoin-start");
+    RenameThread("LKRcoin-start");
 
     if (semOutbound == NULL) {
         // initialize semaphore

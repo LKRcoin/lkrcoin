@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About LakrassCoin</source>
-        <translation>O LakrassCoine</translation>
+        <source>About LKRcoin</source>
+        <translation>O LKRcoine</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;LakrassCoin&lt;/b&gt; version</source>
-        <translation>verzia &lt;b&gt;LakrassCoinu&lt;/b&gt;</translation>
+        <source>&lt;b&gt;LKRcoin&lt;/b&gt; version</source>
+        <translation>verzia &lt;b&gt;LKRcoinu&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The LakrassCoin developers</source>
+Copyright © 2014 The LKRcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The LakrassCoin developers</translation>
+Copyright © 2014 The LKRcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your LakrassCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše LakrassCoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your LKRcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše LKRcoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a LakrassCoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto LakrassCoin adresu</translation>
+        <source>Sign a message to prove you own a LKRcoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto LKRcoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified LakrassCoin address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou LakrassCoin adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified LKRcoin address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou LKRcoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>LakrassCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>LakrassCoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>LKRcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>LKRcoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about LakrassCoin</source>
-        <translation>Zobraziť informácie o LakrassCoin</translation>
+        <source>Show information about LKRcoin</source>
+        <translation>Zobraziť informácie o LKRcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a LakrassCoin address</source>
-        <translation>Poslať mince na LakrassCoin adresu</translation>
+        <source>Send coins to a LKRcoin address</source>
+        <translation>Poslať mince na LKRcoin adresu</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for LakrassCoin</source>
-        <translation>Upraviť možnosti konfigurácie pre LakrassCoin</translation>
+        <source>Modify configuration options for LKRcoin</source>
+        <translation>Upraviť možnosti konfigurácie pre LKRcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-200"/>
-        <source>LakrassCoin</source>
-        <translation>LakrassCoin</translation>
+        <source>LKRcoin</source>
+        <translation>LKRcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About LakrassCoin</source>
-        <translation>&amp;O LakrassCoin</translation>
+        <source>&amp;About LKRcoin</source>
+        <translation>&amp;O LKRcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>LakrassCoin client</source>
-        <translation>LakrassCoin klient</translation>
+        <source>LKRcoin client</source>
+        <translation>LKRcoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to LakrassCoin network</source>
-        <translation><numerusform>%n aktívne spojenie s LakrassCoin sieťov</numerusform><numerusform>%n aktívnych spojení s LakrassCoin sieťov</numerusform><numerusform>%n aktívnych spojení s LakrassCoin sieťou</numerusform></translation>
+        <source>%n active connection(s) to LKRcoin network</source>
+        <translation><numerusform>%n aktívne spojenie s LKRcoin sieťov</numerusform><numerusform>%n aktívnych spojení s LKRcoin sieťov</numerusform><numerusform>%n aktívnych spojení s LKRcoin sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,8 +658,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid LakrassCoin address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou LakrassCoin adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid LKRcoin address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou LKRcoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -718,8 +718,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. LakrassCoin can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. LakrassCoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. LKRcoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. LKRcoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1052,8 +1052,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid LakrassCoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou LakrassCoin adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid LKRcoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou LKRcoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1071,8 +1071,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>LakrassCoin-Qt</source>
-        <translation>LakrassCoin-Qt</translation>
+        <source>LKRcoin-Qt</source>
+        <translation>LKRcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1144,13 +1144,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start LakrassCoin after logging in to the system.</source>
-        <translation>Automaticky spustiť LakrassCoin po prihlásení sa do systému.</translation>
+        <source>Automatically start LKRcoin after logging in to the system.</source>
+        <translation>Automaticky spustiť LKRcoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start LakrassCoin on system login</source>
-        <translation>&amp;Spustiť LakrassCoin pri prihlásení do systému</translation>
+        <source>&amp;Start LKRcoin on system login</source>
+        <translation>&amp;Spustiť LKRcoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1169,8 +1169,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the LakrassCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta LakrassCoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the LKRcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta LKRcoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the LakrassCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti LakrassCoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the LKRcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti LKRcoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting LakrassCoin.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní LakrassCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting LKRcoin.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní LKRcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1269,8 +1269,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show LakrassCoin addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť LakrassCoin adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show LKRcoin addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť LKRcoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting LakrassCoin.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní LakrassCoin.</translation>
+        <source>This setting will take effect after restarting LKRcoin.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní LKRcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LakrassCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou LakrassCoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LKRcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou LKRcoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1551,8 +1551,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the LakrassCoin-Qt help message to get a list with possible LakrassCoin command-line options.</source>
-        <translation>Zobraziť LakrassCoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku LakrassCoin.</translation>
+        <source>Show the LKRcoin-Qt help message to get a list with possible LKRcoin command-line options.</source>
+        <translation>Zobraziť LKRcoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku LKRcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1571,13 +1571,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>LakrassCoin - Debug window</source>
-        <translation>LakrassCoin - Ladiace okno</translation>
+        <source>LKRcoin - Debug window</source>
+        <translation>LKRcoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>LakrassCoin Core</source>
-        <translation>Jadro LakrassCoin</translation>
+        <source>LKRcoin Core</source>
+        <translation>Jadro LKRcoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1586,8 +1586,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the LakrassCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte LakrassCoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the LKRcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte LKRcoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1596,8 +1596,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the LakrassCoin RPC console.</source>
-        <translation>Vitajte v konzole LakrassCoin RPC.</translation>
+        <source>Welcome to the LKRcoin RPC console.</source>
+        <translation>Vitajte v konzole LKRcoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a LakrassCoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte LakrassCoin adresu (napr. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a LKRcoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte LKRcoin adresu (napr. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1855,8 +1855,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid LakrassCoin address</source>
-        <translation>UPOZORNENIE: Neplatná LakrassCoin adresa</translation>
+        <source>WARNING: Invalid LKRcoin address</source>
+        <translation>UPOZORNENIE: Neplatná LKRcoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a LakrassCoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte LakrassCoin adresu (napr. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a LKRcoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte LKRcoin adresu (napr. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1990,8 +1990,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this LakrassCoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto LakrassCoin adresu</translation>
+        <source>Sign the message to prove you own this LKRcoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto LKRcoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2022,8 +2022,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified LakrassCoin address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou LakrassCoin adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified LKRcoin address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou LKRcoin adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a LakrassCoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte LakrassCoin adresu (napr. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a LKRcoin address (e.g. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte LKRcoin adresu (napr. L8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2043,8 +2043,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter LakrassCoin signature</source>
-        <translation>Zadajte LakrassCoin podpis</translation>
+        <source>Enter LKRcoin signature</source>
+        <translation>Zadajte LKRcoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2614,8 +2614,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>LakrassCoin version</source>
-        <translation>LakrassCoin verzia</translation>
+        <source>LKRcoin version</source>
+        <translation>LKRcoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2624,8 +2624,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or lakrasscoind</source>
-        <translation>Pošli príkaz na -server alebo lakrasscoind</translation>
+        <source>Send command to -server or LKRcoind</source>
+        <translation>Pošli príkaz na -server alebo LKRcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2644,13 +2644,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: lakrasscoin.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: lakrasscoin.conf)</translation>
+        <source>Specify configuration file (default: LKRcoin.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: LKRcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: lakrasscoind.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: lakrasscoind.pid)</translation>
+        <source>Specify pid file (default: LKRcoind.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: LKRcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2799,8 +2799,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LakrassCoin will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny LakrassCoin nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LKRcoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny LKRcoin nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2989,24 +2989,24 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=lakrasscoinrpc
+rpcuser=LKRcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;LakrassCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;LKRcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=lakrasscoinrpc
+rpcuser=LKRcoinrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;LakrassCoin Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;LKRcoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3130,13 +3130,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;LakrassCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  LakrassCoin is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. LakrassCoin už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  LKRcoin is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. LKRcoin už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>LakrassCoin</source>
-        <translation>LakrassCoin</translation>
+        <source>LKRcoin</source>
+        <translation>LKRcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;LakrassCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of LakrassCoin</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu LakrassCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of LKRcoin</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu LKRcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart LakrassCoin to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte LakrassCoin k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart LKRcoin to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte LKRcoin k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;LakrassCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. LakrassCoin is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. LakrassCoin je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. LKRcoin is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. LKRcoin je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

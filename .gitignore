@@ -1,7 +1,7 @@
 src/*.exe
-src/lakrasscoin
-src/lakrasscoind
-src/test_lakrasscoin
+src/LKRcoin
+src/LKRcoind
+src/test_LKRcoin
 src/build.h
 .*.swp
 *.*~*
@@ -10,11 +10,11 @@ src/build.h
 *.orig
 *.o
 *.patch
-.lakrasscoin
+.LKRcoin
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-lakrasscoin-qt
+LKRcoin-qt
 #resources cpp
 qrc_*.cpp
 #qt creator
@@ -22,5 +22,7 @@ qrc_*.cpp
 #mac specific
 .DS_Store
 build
+.qmake.stash
+LKRcoin-QT.app
 
 !src/leveldb/Makefile

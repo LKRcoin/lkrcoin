@@ -7,7 +7,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
 software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building LakrassCoin QT, the
+See readme-qt.rst for instructions on building LKRcoin QT, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -76,9 +76,9 @@ make -f Makefile.mingw
 mkdir miniupnpc
 cp *.h miniupnpc/
 
-LakrassCoin
+LKRcoin
 -------
 DOS prompt:
-cd \lakrasscoin\src
+cd \LKRcoin\src
 mingw32-make -f makefile.mingw
-strip lakrasscoind.exe
+strip LKRcoind.exe

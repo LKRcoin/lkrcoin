@@ -1,9 +1,9 @@
-Building LakrassCoin
+Building LKRcoin
 
-See doc/readme-qt.rst for instructions on building LakrassCoin QT,
+See doc/readme-qt.rst for instructions on building LKRcoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of LakrassCoin.
+implementation of LKRcoin.
 
-See doc/build-*.txt for instructions on building lakrasscoind,
+See doc/build-*.txt for instructions on building LKRcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of LakrassCoin.
+implementation of LKRcoin.
