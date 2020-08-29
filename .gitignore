@@ -26,3 +26,4 @@ build
 LKRcoin-QT.app
 
 !src/leveldb/Makefile
+*.db
