@@ -133,7 +133,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     centralLayout->addWidget(centralStackedWidget);
 
 
-    setcentralStackedWidget(centralStackedWidget);
+    setCentralWidget(centralWidget);
 
     // Create status bar
     statusBar();
