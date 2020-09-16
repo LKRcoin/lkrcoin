@@ -363,15 +363,15 @@ void BitcoinGUI::createToolBars()
     toolbar->setContextMenuPolicy(Qt::PreventContextMenu);
 
 
-    if (fUseBlackTheme)
-        {
-            QWidget* header = new QWidget();
-            header->setMinimumSize(144, 144);
-            header->setSizePolicy(QSizePolicy::Fixed, QSizePolicy::Fixed);
-            header->setStyleSheet("QWidget { background-color: rgb(255,255,255); background-repeat: no-repeat; background-image: url(:/images/header); background-position: top center; }");
-            toolbar->addWidget(header);
-            toolbar->addWidget(makeToolBarSpacer());
-        }
+    // if (fUseBlackTheme)
+    //     {
+    //         QWidget* header = new QWidget();
+    //         header->setMinimumSize(144, 144);
+    //         header->setSizePolicy(QSizePolicy::Fixed, QSizePolicy::Fixed);
+    //         header->setStyleSheet("QWidget { background-color: rgb(255,255,255); background-repeat: no-repeat; background-image: url(:/images/header); background-position: top center; }");
+    //         toolbar->addWidget(header);
+    //         toolbar->addWidget(makeToolBarSpacer());
+    //     }
 
     toolbar->addAction(overviewAction);
     toolbar->addAction(sendCoinsAction);
